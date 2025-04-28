@@ -11,7 +11,7 @@ has_children: true
   "@type": "WebPage",
   "headline": "Behavioral Strategy — Overview",
   "description": "Behavioral Strategy is an open field that integrates behavioral science into strategic decision-making. This page introduces its core concepts, including the DRIVE framework and the fits hierarchy.",
-  "about": "Behavioral Strategy is an open, interdisciplinary field that merges behavioral science with strategic planning.",
+  "about": "Behavioral Strategy is an open, interdisciplinary field that integrates behavioral science into the inception of strategic decisions to optimize measurable outcomes.",
   "datePublished": "2025-05-01",
   "inLanguage": "en",
   "keywords": [
@@ -20,6 +20,7 @@ has_children: true
     "Strategic Planning",
     "Behavior Change",
     "Behavior Design",
+    "Behavioral Design",
     "Behavior Market Fit",
     "Behavioral Framework"
   ],
