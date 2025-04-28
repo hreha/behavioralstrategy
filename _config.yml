@@ -13,3 +13,50 @@ defaults:
 
 sass:
   sass_dir: assets/css
+
+  nav:
+  - title: Behavioral Strategy
+    url: /
+  - title: Discipline
+    children:
+      - title: Overview
+        url: /overview
+      - title: Glossary
+        url: /glossary
+        children:
+          - title: Problem Market Fit
+            url: /glossary/problem-market-fit
+          - title: Behavior Market Fit
+            url: /glossary/behavior-market-fit
+          - title: Behavioral Selection
+            url: /glossary/behavioral-selection
+  - title: Methodology
+    children:
+      - title: Behavioral Strategy Process
+        url: /methodology/behavioral-strategy-process
+      - title: Target User
+        url: /methodology/target-user
+      - title: Behavioral Research
+        url: /methodology/behavioral-research
+      - title: Behavior Ranking
+        url: /methodology/behavior-ranking
+      - title: Behavioral Innovation
+        url: /methodology/behavioral-innovation
+      - title: Designing Products
+        url: /methodology/designing-products
+  - title: Evidence
+    children:
+      - title: Research Library
+        url: /evidence/research-library
+      - title: Why Nudges Fail
+        url: /evidence/why-nudges-fail
+  - title: Applications
+    children:
+      - title: Technology
+        url: /applications/technology
+      - title: Healthcare
+        url: /applications/healthcare
+  - title: Education
+    children:
+      - title: Reading List
+        url: /education/reading-list
