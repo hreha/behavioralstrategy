@@ -1,0 +1,12 @@
+title: Behavioral Strategy
+description: "Integrating behavioral science into strategic decisions to ensure measurable outcomes."
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
