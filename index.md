@@ -10,8 +10,8 @@ has_children: true
   "@context": "https://schema.org",
   "@type": "WebPage",
   "headline": "Behavioral Strategy — Overview",
-  "description": "Behavioral Strategy is an open field that integrates behavioral science into strategic decision-making. This page introduces its core concepts, including the DRIVE framework and the fits hierarchy.",
-  "about": "Behavioral Strategy is an open, interdisciplinary field that integrates behavioral science into the inception of strategic decisions to optimize measurable outcomes.",
+  "description": "Behavioral Strategy is an open, interdisciplinary field that applies behavioral science at the start of strategic planning to ensure solutions align with real-world user behavior. This page introduces its foundational concepts, including Problem Market Fit, Behavior Market Fit, Solution Market Fit, Product Market Fit, and the DRIVE framework.",
+"about": "Behavioral Strategy is an open discipline merging behavioral science with strategic planning. It emphasizes identifying precise user behaviors and validated solutions upfront, enabling measurable and sustainable outcomes.",
   "datePublished": "2025-05-01",
   "inLanguage": "en",
   "keywords": [
@@ -45,16 +45,17 @@ These performance gains emerge repeatedly in published case studies and practiti
 
 ## The Behavioral Strategy Hierarchy
 
-Behavioral Strategy defines three foundational "fits" essential for strategic success:
+Behavioral Strategy defines four foundational "fits" essential for strategic success:
 
 1. **[Problem Market Fit](/glossary/problem-market-fit/):** Ensuring users actively experience and seek solutions to a clearly defined problem.
 2. **[Behavior Market Fit](/glossary/behavior-market-fit/):** Matching user behaviors precisely to the validated problem.  
    *It represents the evidence-backed match between a target behavior and a real-world problem.*
-3. **Product Market Fit:** Building products or services that sustainably enable and scale the identified behaviors.
+3. **[Solution Market Fit](/glossary/solution-market-fit/):** Identifying and validating the optimal solution—whether a product, service, or intervention—that effectively enables and scales the desired behaviors.
+4. **[Product Market Fit](/glossary/product-market-fit/) (when applicable):** Specifically validating that a market-ready product successfully meets user needs and sustainably supports target behaviors.
 
 This sequence is at the heart of several frameworks—including our DRIVE playbook—but remains free for anyone to adapt.
 
-> **Heuristic:** Verify Problem Market Fit first, Behavior Market Fit second, and Product Market Fit third.
+> **Heuristic:** Verify **[Problem Market Fit](/glossary/problem-market-fit/)**, then **[Behavior Market Fit](/glossary/behavior-market-fit/)**, and finally **[Solution Market Fit](/glossary/solution-market-fit/)** (or **[Product Market Fit](/glossary/product-market-fit/)** if your solution is specifically a product).
 
 ## Why Behavioral Strategy Matters
 
