@@ -1,0 +1,8 @@
+// Custom link color: blue (instead of purple)
+$link-color: #007bff;  // standard clean blue
+
+// Sidebar background: light blue
+$sidebar-color: #f0f7ff;  // very light blue
+
+// Import Just the Docs theme to apply overrides clearly
+@import "just-the-docs";
