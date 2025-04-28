@@ -1,5 +1,7 @@
 ---
-title: Behavioral Selection
+title: "Behavioral Selection"
+nav_order: 3
+parent: Glossary of Behavioral Strategy Terms
 ---
 
 # Behavioral Selection

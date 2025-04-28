@@ -1,5 +1,7 @@
 ---
-title: Behavior Market Fit
+title: "Behavior Market Fit"
+nav_order: 2
+parent: Glossary of Behavioral Strategy Terms
 ---
 
 # Behavior Market Fit

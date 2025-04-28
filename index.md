@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Behavioral Strategy
+nav_order: 1
+has_children: true
 ---
 
 <script type="application/ld+json">

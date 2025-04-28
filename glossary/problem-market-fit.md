@@ -1,5 +1,7 @@
 ---
-title: Problem Market Fit
+title: "Problem Market Fit"
+nav_order: 1
+parent: Glossary of Behavioral Strategy Terms
 ---
 
 # Problem Market Fit
